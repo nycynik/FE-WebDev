@@ -38,4 +38,3 @@ they will review your assignment and give you feedback.
 **Remember to commit and push your changes, also verify that the
 changes show in GitHub before you send your notifications**
 
-![done!](https://giphy.com/gifs/XjlNyeZp5lDri/html5)
