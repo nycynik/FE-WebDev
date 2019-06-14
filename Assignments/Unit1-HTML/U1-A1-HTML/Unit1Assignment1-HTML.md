@@ -23,8 +23,9 @@ see your progress and review your work as you go.
 ## About You
 
 1. Create a new text document, with the name `about.html` in the U1-A1-HTML folder.
-1. Make it a valid HTML5 document, and include a heading with your name, and at least one paragraph
-of text about you.
+1. Make it a valid HTML5 document, and include the following content.
+   1. a div with: an image that represents you in some way, a heading 1 element with your name and a heading 2 element with your title.
+   1. a div with: your email as a link, and the word "email:" as a label, and your title with the word "title:" as a label.
 
 **Bonus**: Add a link to your GitHub profile.
 

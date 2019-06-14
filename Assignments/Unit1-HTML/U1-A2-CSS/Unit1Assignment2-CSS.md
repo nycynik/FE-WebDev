@@ -1,30 +1,22 @@
 # Unit 1 - HTML
-## Assignment 1 - Create your first HTML Document!
+## Assignment 1 - Design your first html page!
 
 **Description**: 
 
-Welcome to the Front End developer class! This assignment
-is both an assignment that you would normally see for this
-class (that is, you have an output that will be reviewed) as
-well as many items that you should also complete to get
-ready for the first Unit of the class.
-
-This week, please complete `Repository Setup` and `About you` below. Then
-follow the instructions to hand in your work.
-
-## Repository Setup
-
-1. Fork the FE repository in your personal GitHub account.
-1. Clone the fork of the repository locally so that you 
-can work on the assignments.
-1. Add your collaborator(s) to your fork, so that they can
-see your progress and review your work as you go.
+This assignment consists of restyling the page that you started in Assignment 1.
+You will continue working on that page by adding an external style sheet to that html page, 
+and adding styles for each of the elements that you included.
   
-## About You
+## Your Style
 
-1. Create a new text document, with the name `about.html` in the U1-A1-HTML folder.
-1. Make it a valid HTML5 document, and include a heading with your name, and at least one paragraph
-of text about you.
+Create a page the is similar to the card image shown here:
+
+1. Add an external style sheet to the 'about.html' page.
+1. Create a style for the entire content that limits it's with to 640px and centers the content.  Also add a drop shadow to this box, you will need to add HTMl elements to make this work.
+1. Apply a style to this box that you made in the last step, to include rounded corners.
+1. Add a light gray background to the box for your email information.
+1. Style the labels to be light gray and appear below the content. (Try to do it w/o moving the labels to after the data element)
+
 
 **Bonus**: Add a link to your GitHub profile.
 
