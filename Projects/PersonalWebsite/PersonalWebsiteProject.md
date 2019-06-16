@@ -29,4 +29,4 @@ Here is a [link](https://codeburst.io/10-awesome-web-developer-portfolios-d266b3
 
 ## Notes
 
-Image form template was found here. https://pxhere.com/en/photo/1100846
+Image from template was found here. https://pxhere.com/en/photo/1100846
