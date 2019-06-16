@@ -10,7 +10,7 @@ sort of online survey or test, so feel free to get creative.
 1. Parse the JSON data.
 2. Allow the user to move between questions / basic navigation.
 3. Track the correct and incorrect responses and keep a score.
-4. Show appropriate feedback at the end of the quiz.
+4. Show appropriate feedback at the end of the quiz and score x/y pts.
 
 ## Rubric
 

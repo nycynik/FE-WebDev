@@ -1,56 +1,126 @@
-[
-  {
-    "id": 1,
-    "prompt": "What is the next image in the set",
-    "prompt_image": "images/question1_prompt.gif",
-    "response_options": [
+{
+  "quiz": {
+    "name": "IQ test",
+    "outcomes": [
       {
-        "id": "A",
-        "image": "images/q1_A.gif"
+        "min": 0,
+        "max": 80,
+        "title": "Average",
+        "description": "You scored average, congratulations!"
       },
       {
-        "id": "B",
-        "image": "images/q1_B.gif"
+        "min": 81,
+        "max": 90,
+        "title": "Above Average",
+        "description": "You scored above average, very impressive!"
       },
       {
-        "id": "C",
-        "image": "images/q1_C.gif"
+        "min": 91,
+        "max": 99,
+        "title": "Amazing Intellect",
+        "description": "You scored way above average, what a performance!"
       },
       {
-        "id": "D",
-        "image": "images/q1_D.gif"
-      },
-      {
-        "id": "E",
-        "image": "images/q1_E.gif"
+        "min": 100,
+        "max": 100,
+        "title": "PERFECT SCORE!",
+        "description": "There are few others like you!"
       }
-    ]
-  },
-  {
-    "id": 2,
-    "prompt": "What is the next image in the set",
-    "prompt_image": "images/question2_prompt.gif",
-    "response_options": [
+    ],
+    "questions": [
       {
-        "id": "A",
-        "image": "images/q2_A.gif"
+        "id": 1,
+        "prompt": "What is the next image in the set",
+        "prompt_image": "images/question1_prompt.gif",
+        "point_value": 5,
+        "response_options": [
+          {
+            "id": "A",
+            "image": "images/q1_A.gif",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "image": "images/q1_B.gif",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "image": "images/q1_C.gif",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "image": "images/q1_D.gif",
+            "correct": false
+          },
+          {
+            "id": "E",
+            "image": "images/q1_E.gif",
+            "correct": false
+          }
+        ]
       },
       {
-        "id": "B",
-        "image": "images/q2_B.gif"
+        "id": 2,
+        "prompt": "What is the next image in the set",
+        "prompt_image": "images/question2_prompt.gif",
+        "point_value": 5,
+        "response_options": [
+          {
+            "id": "A",
+            "image": "images/q2_A.gif",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "image": "images/q2_B.gif",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "image": "images/q2_C.gif",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "image": "images/q2_D.gif",
+            "correct": true
+          }
+        ]
       },
       {
-        "id": "C",
-        "image": "images/q2_C.gif"
-      },
-      {
-        "id": "D",
-        "image": "images/q2_D.gif"
-      },
-      {
-        "id": "E",
-        "image": "images/q2_E.gif"
+        "id": 3,
+        "prompt": "What is the next number in this sequence? 1 3 3 9 27",
+        "point_value": 5,
+        "response_options": [
+          {
+            "id": "A",
+            "response": "54",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "image": "27",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "image": "243",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "image": "72",
+            "correct": false
+          },
+          {
+            "id": "E",
+            "image": "It is not a sequence.",
+            "correct": false
+          }
+        ]
       }
     ]
   }
-]
+}
