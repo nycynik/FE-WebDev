@@ -120,6 +120,60 @@
             "correct": false
           }
         ]
+      },
+      {
+        "id": 4,
+        "prompt": "What is the average of the following numbers? 1, 2, 6",
+        "point_value": 5,
+        "response_options": [
+          {
+            "id": "A",
+            "response": "4.5",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "image": "9",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "image": "3",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "image": "12",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "prompt": "What is the average of the following numbers? 1, 2, 6",
+        "point_value": 5,
+        "response_options": [
+          {
+            "id": "A",
+            "response": "4.5",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "image": "9",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "image": "3",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "image": "12",
+            "correct": false
+          }
+        ]
       }
     ]
   }
