@@ -1,5 +1,5 @@
 # Unit 1 - HTML
-## Assignment 1 - Design your first html page!
+## Assignment 2 - Design your first html page!
 
 **Description**: 
 
